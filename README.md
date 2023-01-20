@@ -1,3 +1,8 @@
 
 # Portfolio website in making...
-My name is Deepankar and learning web development
+I'm learning web development
+
+for now I know..
+1. JavaScript
+2. NodeJS
+3. Repl.it
